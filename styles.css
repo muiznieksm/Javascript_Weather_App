@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    #6e0082 1%,
+    #5d006e 19%,
+    #0e0047 91%,
+    #0e0047 91%
+  );
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container {
+  max-width: 400px;
+}
