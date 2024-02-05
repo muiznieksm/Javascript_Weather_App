@@ -9,6 +9,68 @@ body {
   letter-spacing: 0.2em;
   font-size: 0.8em;
 }
+
 .container {
   max-width: 400px;
+}
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
+
+.cold {
+  background: linear-gradient(
+    to bottom,
+    #08007c 4%,
+    #00c6c6 62%,
+    #00c6c6 68%,
+    #00c6c6 87%,
+    #00c6c6 100%,
+    #002a5a 100%
+  );
+}
+
+.very_cold {
+  background: linear-gradient(
+    to bottom,
+    #001256 33%,
+    #7300c6 65%,
+    #7300c6 68%,
+    #7300c6 87%,
+    #7300c6 87%,
+    #7300c6 87%,
+    #7300c6 87%,
+    #5a0050 100%
+  );
+}
+
+.warm {
+  background: linear-gradient(
+    to bottom,
+    #ffd75f 0%,
+    #ff8e05 19%,
+    #ff8e05 19%,
+    #ffc003 100%
+  );
+}
+
+.hot {
+  background: linear-gradient(
+    to bottom,
+    #bc4747 0%,
+    #ff4305 19%,
+    #ff4305 19%,
+    #ff4305 63%,
+    #ff7403 100%
+  );
+}
+
+.input{
+    opacity: 0.3;
+    font-weight: 600;
+    color: black;
+    text-align: center;
 }
