@@ -28,4 +28,4 @@ This Weather App provides real-time weather information based on user input. Use
 - `app.js`: Main JavaScript file that initializes the application logic.
 
 ## Preview
-<img src="Preview.gif" alt="Project Preview" width="80%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
+<img src="Preview.gif" alt="Project Preview" width="100%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
