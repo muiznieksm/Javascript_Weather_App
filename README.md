@@ -4,6 +4,9 @@
 ## Overview
 This Weather App provides real-time weather information based on user input. Users can search for weather conditions in any location and receive current weather data including temperature, humidity, and weather conditions.
 
+## Preview
+<img src="Preview.gif" alt="Project Preview" width="100%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
+
 ## Features
 - Search weather by city name.
 - Displays temperature, weather conditions, and more.
@@ -27,5 +30,4 @@ This Weather App provides real-time weather information based on user input. Use
 - `forecast.js`: JavaScript file that handles fetching weather data from the AccuWeather API.
 - `app.js`: Main JavaScript file that initializes the application logic.
 
-## Preview
-<img src="Preview.gif" alt="Project Preview" width="100%" style="border: 1px solid #ccc; border-radius: 5px; box-shadow: 3px 3px 5px #888;">
+
